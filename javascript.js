@@ -29,3 +29,4 @@ function displayProducts(products) {
     innerProduct.appendChild(productDiv);
   });
 }
+
